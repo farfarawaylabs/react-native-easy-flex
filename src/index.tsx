@@ -1,5 +1,6 @@
-export default {
-  multiply(a: number, b: number) {
-    return Promise.resolve(a * b);
-  },
-};
+import Center from './components/Center';
+import Col from './components/Col';
+import Row from './components/Row';
+import { Alignment } from './components/enums';
+
+export { Center, Col, Alignment, Row };
