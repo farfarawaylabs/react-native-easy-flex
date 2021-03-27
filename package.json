@@ -1,7 +1,7 @@
 {
   "name": "@farfarawaylabs/react-native-easy-flex",
-  "version": "0.1.0",
-  "description": "Easy flex controls",
+  "version": "1.0.0",
+  "description": "Easy flex controls for React Native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/index.d.ts",
@@ -34,10 +34,13 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "flex",
+    "alignment",
+    "layout"
   ],
   "repository": "https://github.com/farfarawaylabs/react-native-easy-flex",
-  "author": "FarFarAwayLabs <shahar@farfarawaylabs.com> (http://www.farfarawaylabs.com)",
+  "author": "FarFarAwayLabs <shahar@farfarawaylabs.com> (https://www.farfarawaylabs.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/farfarawaylabs/react-native-easy-flex/issues"
