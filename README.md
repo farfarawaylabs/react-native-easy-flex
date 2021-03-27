@@ -1,4 +1,4 @@
-# @farfarawaylabs/react-native-layout
+# @farfarawaylabs/react-native-easy-flex
 
 Layout components for React Native
 
@@ -24,7 +24,7 @@ And again - if there is something these componentd don't do, you can always comb
 ```js
 import * as React from 'react';
 import { Text } from 'react-native';
-import { Row, Alignment, Col } from 'react-native-ui-labs';
+import { Row, Alignment, Col } from '@farfarawaylabs/react-native-easy-flex';
 
 export default function App() {
   // Horizontal alignment and sizing of columns
@@ -61,7 +61,7 @@ export default function App() {
 ```js
 import * as React from 'react';
 import { Text } from 'react-native';
-import { Row, Alignment, Col } from 'react-native-ui-labs';
+import { Row, Alignment, Col } from '@farfarawaylabs/react-native-easy-flex';
 
 export default function App() {
   // Vertical alignment of columns
@@ -103,7 +103,7 @@ export default function App() {
 ```js
 import * as React from 'react';
 import { Text } from 'react-native';
-import { Row, Alignment, Col } from 'react-native-ui-labs';
+import { Row, Alignment, Col } from '@farfarawaylabs/react-native-easy-flex';
 
 export default function App() {
   // Vertical alignment and sizing of rows
@@ -138,7 +138,7 @@ export default function App() {
 ```js
 import * as React from 'react';
 import { Text } from 'react-native';
-import { Row, Alignment, Col } from 'react-native-ui-labs';
+import { Row, Alignment, Col } from '@farfarawaylabs/react-native-easy-flex';
 
 export default function App() {
   // Vertical alignment of columns
@@ -183,7 +183,7 @@ export default function App() {
 ```js
 import * as React from 'react';
 import { Text } from 'react-native';
-import { Row, Alignment, Col } from 'react-native-ui-labs';
+import { Row, Alignment, Col } from '} from '@farfarawaylabs/react-native-easy-flex';
 
 export default function App() {
   // Simple centering
